@@ -1,0 +1,15 @@
+[package]
+name = "egui-smith-chart"
+version = "0.1.0"
+edition = "2021"
+authors = ["Verneri Hirvonen"]
+license = "Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+egui = "0.20.1"
+num = "0.4.0"
+
+[dev-dependencies]
+eframe = "0.20.1"
